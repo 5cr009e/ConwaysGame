@@ -9,3 +9,4 @@ go build -o ConwaysGame
 
 ## Demo
 ![Conway's Game](./demo.png)
+![Coways's Game](./cg.gif)
